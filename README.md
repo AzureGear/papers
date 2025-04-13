@@ -23,4 +23,4 @@ objects with minimal boundary variability
 
 **Journal**: preprint
 
-**Link**: [PDF](Challenges_for_recognizing_anthropogenic_objects_Saidov_preprint.pdf)  
+**Link**: [PDF](Saidov_preprint_2025_segmentations.pdf)  
